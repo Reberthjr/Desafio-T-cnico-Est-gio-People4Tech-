@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMvaBfzI+vU=",
+  "success": true,
+  "projectFilePath": "E:\\REPOSITÓRIOS GIT\\Desafio-T-cnico-Est-gio-People4Tech-\\CatalogoApi\\CatalogoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reberth\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\Reberth\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
