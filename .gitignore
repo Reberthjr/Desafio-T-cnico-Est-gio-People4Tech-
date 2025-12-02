@@ -1,0 +1,50 @@
+# ============================================
+
+# .GITIGNORE — Projeto .NET + EF + VS Code
+
+# ============================================
+
+# --- Build Outputs ---
+
+bin/
+obj/
+out/
+
+# --- .NET Artifacts ---
+
+*.dll
+*.exe
+*.pdb
+*.cache
+*.tmp
+*.log
+
+# --- IDE / Editor ---
+
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Entity Framework ---
+
+Migrations/*Designer.cs
+Migrations/*Snapshot.cs
+
+# --- Sistema Operacional ---
+
+.DS_Store
+Thumbs.db
+
+# --- Pacotes / Dependências recuperáveis ---
+
+packages/
+*.nupkg
+*.snupkg
+
+# --- Temp / Cache ---
+
+*.tmp_proj
+*.cache
