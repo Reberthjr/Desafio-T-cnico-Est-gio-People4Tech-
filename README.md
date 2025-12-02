@@ -1,4 +1,4 @@
-# 📦 CatalogApi — Desafio Técnico .NET 2025
+# 📦 CatalogApi — Desafio Técnico .NET
 
 API desenvolvida para o desafio técnico da People4Tech, utilizando **.NET 10**, **Entity Framework Core** e **SQLite**.
 O sistema permite **gerenciar produtos** e **emitir pedidos**, validando estoque automaticamente.
